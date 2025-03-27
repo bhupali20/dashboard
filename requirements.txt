@@ -1,2 +1,3 @@
 plotly
 google-generativeai
+python-dotenv
